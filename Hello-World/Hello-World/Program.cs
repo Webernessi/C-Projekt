@@ -12,6 +12,7 @@ namespace Hello_World
         {
             Console.WriteLine("Hallo Welt! Das ist die erste Zeile für das GIT-Projekt.");
             Console.WriteLine("Test Version 2 lets try Baby");
+            Console.WriteLine("Das ist die zweite Zeile ^ASH");
             Console.ReadKey();
         }
     }
